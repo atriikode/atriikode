@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/tsukihimp4" alt="Tsukihimp4" width="150" height="150">
 </p>
 
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
   <a href="https://github.com/tsukihimp4">
@@ -13,8 +13,8 @@
   <a href="https://github.com/tsukihimp4?tab=repositories">
     <img src="https://badges.pufler.dev/repos/tsukihimp4" alt="GitHub repos">
   </a>
-  <a href="https://twitter.com/tsukihimp4">
-    <img src="https://img.shields.io/twitter/follow/tsukihimp4?style=social" alt="Twitter Follow">
+  <a href="https://facebook.com/tsukihimp4">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
 
@@ -52,7 +52,6 @@
 ### 🔗 Let's Connect:
 
 <p align="center">
-  <a href="https://twitter.com/tsukihimp4"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/tsukihimp4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://facebook.com/tsukihimp4"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
