@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tsukihimp4</h1>
+<h1 align="center">Hi, I'm Tsukihimp4</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/tsukihimp4" alt="Tsukihimp4" width="150" height="150">
