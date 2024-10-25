@@ -50,4 +50,3 @@
   <a href="https://www.facebook.com/AgasPratamamp4"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-penhhiuajuama
