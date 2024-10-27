@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Seizamp4</h1>
+<h1 align="center">Hi, I'm Agas Pratama</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/tsukihimp4" alt="Tsukihimp4" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/seizaimp4" alt="seizamp4" width="150" height="150">
 </p>
 
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/tsukihimp4">
-    <img src="https://img.shields.io/github/followers/tsukihimp4?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/seizamp4">
+    <img src="https://img.shields.io/github/followers/seizamp4?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://github.com/tsukihimp4?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/tsukihimp4" alt="GitHub repos">
+  <a href="https://github.com/seizamp4?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/seizamp4" alt="GitHub repos">
   </a>
 </p>
 
@@ -31,15 +31,15 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsukihimp4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seizamp4&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsukihimp4&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seizamp4&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukihimp4&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seizamp4&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
