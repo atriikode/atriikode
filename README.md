@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/seizamp4">
+  <a href="https://github.com/szushiro">
     <img src="https://img.shields.io/github/followers/seizamp4?label=Followers&style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/seizamp4?tab=repositories">
