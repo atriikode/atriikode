@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/szushiro">
-    <img src="https://img.shields.io/github/followers/seizamp4?label=Followers&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/szushiro?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://github.com/seizamp4?tab=repositories">
+  <a href="https://github.com/szushiro?tab=repositories">
     <img src="https://badges.pufler.dev/repos/szushiro" alt="GitHub repos">
   </a>
 </p>
