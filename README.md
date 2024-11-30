@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/seizamp4?label=Followers&style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/seizamp4?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/seizamp4" alt="GitHub repos">
+    <img src="https://badges.pufler.dev/repos/szushiro" alt="GitHub repos">
   </a>
 </p>
 
@@ -31,15 +31,15 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seizamp4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=szushiro&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seizamp4&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szushiro&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seizamp4&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szushiro&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
