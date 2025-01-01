@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Agas Pratama!</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/nijikafesnuk" alt="seizamp4" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/nijikafesnuk" alt="nijikafesnuk
+    " width="200" height="200">
 </p>
 
 <h3 align="center">A passionate developer from Indonesia</h3>
