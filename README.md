@@ -8,11 +8,11 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/szushiro">
-    <img src="https://img.shields.io/github/followers/szushiro?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/nijikafesnuk">
+    <img src="https://img.shields.io/github/followers/nijikafesnuk?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://github.com/szushiro?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/szushiro" alt="GitHub repos">
+  <a href="https://github.com/nijikafesnuk?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/nijikafesnuk" alt="GitHub repos">
   </a>
 </p>
 
@@ -32,15 +32,15 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=szushiro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nijikafesnuk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szushiro&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijikafesnuk&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szushiro&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijikafesnuk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
