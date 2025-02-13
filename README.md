@@ -8,11 +8,11 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://github.com/agasekode">
-    <img src="https://img.shields.io/github/followers/agasekode?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/atriikode">
+    <img src="https://img.shields.io/github/followers/atriikode?label=Followers&style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/agasekode?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/agasekode" alt="GitHub repos">
+    <img src="https://badges.pufler.dev/repos/atriikode" alt="GitHub repos">
   </a>
 </p>
 
