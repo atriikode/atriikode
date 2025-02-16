@@ -20,8 +20,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **Next.js & Tailwind CSS**
-- 💬 Ask me about **JavaScript, React, and Web Development**
-- ⚡ Fun fact: **I love anime and coding at night**
+- ⚡ Fun fact: **Atri is my wife**
 
 ---
 
